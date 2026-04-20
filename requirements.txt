@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-openai
+langchain-community
+streamlit
+pandas
+matplotlib
+ddgs
+typing_extensions

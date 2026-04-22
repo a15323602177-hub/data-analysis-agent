@@ -25,7 +25,7 @@ if "last_charts" not in st.session_state:
 
 llm = ChatOpenAI(
     model="qwen-plus",
-    api_key=st.secrets["ALIYUN_API_KEY"],,
+    api_key=st.secrets["ALIYUN_API_KEY"],
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1",
 )
 
